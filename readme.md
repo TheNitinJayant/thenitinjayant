@@ -1,7 +1,6 @@
 ### Hi there, I'm Nitin- aka [TheNitinJayant][website] 👋
 
-[![Website](https://img.shields.io/website?label=NitinJayant.com&style=for-the-badge&url=https%3A%2F%2Fnitinjayant.com)](https://nojic.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheNitinJayant?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thenitinjayant)
+[![Website](https://img.shields.io/website?label=nojic.com&style=for-the-badge&url=https%3A%2F%2Fnojic.com)](https://nojic.com)
 
 ## I'm a Software Engineer, React Developer, and Youtuber !!
 
@@ -19,6 +18,7 @@
 
 -   HTML, CSS, JS
 -   React
+-   Angular
 -   Node, Express
 -   MySQL
 -   MongoDB
@@ -48,7 +48,7 @@
 
 ---
 
-[website]: https://nitinjayant.pages.dev
+[website]: https://nojic.com
 [twitter]: https://twitter.com/thenitinjayant
 [youtube]: https://youtube.com/MusicMachineTV
 [instagram]: https://instagram.com/thenitinjayant
