@@ -1,6 +1,6 @@
 ### Hi there, I'm Nitin- aka [TheNitinJayant][website] 👋
 
-[![Website](https://img.shields.io/website?label=nojic.com&style=for-the-badge&url=https%3A%2F%2Fnojic.com)](https://nojic.com)
+[![Website](https://img.shields.io/website?label=n101n.com&style=for-the-badge&url=https%3A%2F%2Fn101n.com)](https://n101n.com)
 
 ## I'm a Software Engineer, React Developer, and Youtuber !!
 
