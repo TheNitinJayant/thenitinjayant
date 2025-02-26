@@ -2,11 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=n101n.com&style=for-the-badge&url=https%3A%2F%2Fn101n.com)](https://n101n.com)
 
-## I'm a Software Engineer, React Developer, and Youtuber !!
+## I'm a Software Engineer, Full Stack Developer, and Youtuber !!
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -48,7 +49,8 @@
 
 ---
 
-[website]: https://nojic.com
+[website]: https://n101n.com
+[email]: nitin@n101n[dot]com
 [twitter]: https://twitter.com/thenitinjayant
 [youtube]: https://youtube.com/MusicMachineTV
 [instagram]: https://instagram.com/thenitinjayant
