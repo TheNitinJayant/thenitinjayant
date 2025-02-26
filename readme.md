@@ -50,7 +50,7 @@
 ---
 
 [website]: https://n101n.com
-[email]: nitin@n101n[dot]com
+[email]: mailto:nitin@n101n[dot]com
 [twitter]: https://twitter.com/thenitinjayant
 [youtube]: https://youtube.com/MusicMachineTV
 [instagram]: https://instagram.com/thenitinjayant
