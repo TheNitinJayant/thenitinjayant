@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nitin
 
-[![Website](https://img.shields.io/website?label=n101n.com&style=for-the-badge&url=https%3A%2F%2Fn101n.com)](https://nitin.n101n.com)
+[![Website](https://img.shields.io/website?label=n101n.com&style=for-the-badge&url=https%3A%2F%2Fnitin.n101n.com)](https://nitin.n101n.com)
 
 ## I'm a Software Engineer, Full Stack Developer.
 
