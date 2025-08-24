@@ -1,30 +1,30 @@
-### Hi there, I'm Nitin- aka [TheNitinJayant][website] 👋
+### Hi there 👋, I'm Nitin
 
-[![Website](https://img.shields.io/website?label=n101n.com&style=for-the-badge&url=https%3A%2F%2Fn101n.com)](https://n101n.com)
+[![Website](https://img.shields.io/website?label=n101n.com&style=for-the-badge&url=https%3A%2F%2Fn101n.com)](https://nitin.n101n.com)
 
-## I'm a Software Engineer, Full Stack Developer, and Youtuber !!
+## I'm a Software Engineer, Full Stack Developer.
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/x.svg" />][X]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
--   HTML, CSS, JS
 -   React
 -   Angular
--   Node, Express
--   MySQL
--   MongoDB
+-   Node
+-   Express
 -   Java
 -   Spring Boot
+-   MySQL
+-   MongoDB
 -   Git
 
 <!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -44,14 +44,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
 
-<br />
-<br />
-
 ---
 
-[website]: https://n101n.com
-[email]: mailto:nitin@n101n[dot]com
-[twitter]: https://twitter.com/thenitinjayant
-[youtube]: https://youtube.com/MusicMachineTV
+[website]: https://nitin.n101n.com
+[email]: mailto:hello@nitin.n101n[dot]com
+[X]: https://twitter.com/thenitinjayant
+[youtube]: https://youtube.com/@TheNitinJayant
 [instagram]: https://instagram.com/thenitinjayant
 [linkedin]: https://linkedin.com/in/thenitinjayant
